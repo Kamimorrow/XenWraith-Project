@@ -13,3 +13,5 @@ A repository of my Project and of some extra content.
 - -- SpaceBar to Attack-(Unavailable)
 - -- Killing the Enemy grants you points based on the enemy's dificulty-(Unavailable)
 - -- Continue to play untill you die
+- -- As time continues the game gets harder-(Unavailable)
+- -- collect power ups to give you an edge in your struggle-(Unavailable)
