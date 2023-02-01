@@ -9,7 +9,7 @@ A repository of my Project and of some extra content.
 
 # How-To-Play
 - -- "a" and "d" to move left and right
-- -- "w" to jump and "d" to return to the ground
+- -- "w" to jump and "s" to return to the ground
 - -- SpaceBar to Attack-(Unavailable)
 - -- Killing the Enemy grants you points based on the enemy's dificulty-(Unavailable)
 - -- Continue to play untill you die
